@@ -15,9 +15,26 @@ A simple interactive game where the player tries to guess a random number betwee
 
 ## 📸 Screenshot
 
-![Guess My Number Screenshot](screenshot.png)
+### 🎮 Game UI
 
-> *(Add a screenshot named `screenshot.png` in your repo to show how it looks)*
+![Screenshot 1](assets/Screenshot_1.png)
+
+### ❌ Wrong Guess - Too Low
+
+![Screenshot 2](assets/Screenshot_2.png)
+
+### ❌ Wrong Guess - Too High
+
+![Screenshot 3](assets/Screenshot_3.png)
+
+### ✅ Correct Guess
+
+![Screenshot 4](assets/Screenshot_4.png)
+
+### 🔁 Restarting the Game
+
+![Screenshot 5](assets/Screenshot_5.png)
+
 
 ---
 
