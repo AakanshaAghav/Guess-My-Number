@@ -65,12 +65,6 @@ A simple interactive game where the player tries to guess a random number betwee
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♀️ Author
 
 **Aakansha Aghav**
